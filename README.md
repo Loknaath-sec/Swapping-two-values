@@ -22,8 +22,6 @@ End the program
 ## OUTPUT:
 ![image](https://github.com/Loknaath-sec/Swapping-two-values/assets/145742558/3133924d-27a4-4f32-8579-2172c2768585)
 
-
-
 ## RESULT:
 Thus the swapping of two values are successfully executed.
 
