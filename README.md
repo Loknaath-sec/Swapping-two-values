@@ -33,7 +33,8 @@ b=temp
 print(f"Swapped values are: {a} {b}")
 ```
 ## OUTPUT:
-![image](https://github.com/Loknaath-sec/Swapping-two-values/assets/145742558/3133924d-27a4-4f32-8579-2172c2768585)
+![image](https://github.com/Loknaath-sec/Swapping-two-values/assets/145742558/b3b03664-fc06-439f-ade5-0bb38dbf59db)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed.
