@@ -1,6 +1,5 @@
 # Swapping-two-values
-## NAME: P.LOKNAATH
-## REFERENCE NUMBER: 23004546
+
 ## AIM:
 To write a python program for swapping of two values
 ## EQUIPEMENT'S REQUIRED: 
